@@ -1,14 +1,32 @@
-# Naveen
-Hello everyone, welcome to my profile
-<h3 align="center">A passionate about data analyst and Finance field from India</h3>
+# Hi there, I'm Naveen 👋
 
-- 🌱 I’m currently learning *Python ,sql ,pandas and numpy*
+Welcome to my GitHub profile!
 
-- 📫 How to reach me *naveengill505@gmail.com*
+## 💼 About Me
+I am passionate about data analysis and the finance field. My journey is driven by curiosity and a desire to uncover meaningful insights from data. I thrive on solving complex problems and bringing value through data-driven decision making.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Skills
+- **Programming:** Python
+- **Data Manipulation:** Pandas, NumPy
+- **Database Querying:** SQL
+- **Finance & Analytics:** Data exploration, financial data analysis
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+## 🚀 What I Do
+- Analyze financial and business data to derive actionable insights.
+- Build and maintain data pipelines using Python and SQL.
+- Perform data cleaning, transformation, and visualization.
+- Continuously learn new tools and techniques in data analytics and finance.
+
+## 📈 Interests
+- Financial analytics
+- Statistical modeling
+- Automation in data workflows
+- Exploring new datasets and telling stories with data
+
+## 📫 How to Reach Me
+- **Email:** [naveengill505@gmail.com](mailto:naveengill505@gmail.com)
+
+Thanks for visiting my profile! Feel free to check out my repositories or connect for collaboration.
+
+---
+*Let's turn data into actionable insights!*
